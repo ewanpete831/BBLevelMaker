@@ -17,7 +17,13 @@ namespace BBLevelEditor
         public Form1()
         {
             InitializeComponent();
+
         }
+
+
+
+
+
 
         private void buildButton_Click(object sender, EventArgs e)
         {
