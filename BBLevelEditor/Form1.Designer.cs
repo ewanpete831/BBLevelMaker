@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.button118 = new System.Windows.Forms.Button();
             this.button116 = new System.Windows.Forms.Button();
             this.button107 = new System.Windows.Forms.Button();
@@ -187,135 +189,14 @@
             this.button147 = new System.Windows.Forms.Button();
             this.button153 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Black;
-            this.panel1.Controls.Add(this.button158);
-            this.panel1.Controls.Add(this.button157);
-            this.panel1.Controls.Add(this.button156);
-            
-           
-            this.panel1.Controls.Add(this.button153);
-            this.panel1.Controls.Add(this.button152);
-            this.panel1.Controls.Add(this.button151);
-            this.panel1.Controls.Add(this.button150);
-            this.panel1.Controls.Add(this.button149);
-            this.panel1.Controls.Add(this.button148);
-            this.panel1.Controls.Add(this.button147);
-            this.panel1.Controls.Add(this.button146);
-            this.panel1.Controls.Add(this.button145);
-            this.panel1.Controls.Add(this.button144);
-            this.panel1.Controls.Add(this.button143);
-            this.panel1.Controls.Add(this.button142);
-            this.panel1.Controls.Add(this.button141);
-            this.panel1.Controls.Add(this.button140);
-            this.panel1.Controls.Add(this.button139);
-            this.panel1.Controls.Add(this.button138);
-            this.panel1.Controls.Add(this.button137);
-            this.panel1.Controls.Add(this.button136);
-            this.panel1.Controls.Add(this.button135);
-            this.panel1.Controls.Add(this.button134);
-            this.panel1.Controls.Add(this.button133);
-            this.panel1.Controls.Add(this.button132);
-            this.panel1.Controls.Add(this.button131);
-            this.panel1.Controls.Add(this.button130);
-            this.panel1.Controls.Add(this.button129);
-            this.panel1.Controls.Add(this.button128);
-            this.panel1.Controls.Add(this.button127);
-            this.panel1.Controls.Add(this.button126);
-            this.panel1.Controls.Add(this.button125);
-            this.panel1.Controls.Add(this.button124);
-            this.panel1.Controls.Add(this.button123);
-            this.panel1.Controls.Add(this.button122);
-            this.panel1.Controls.Add(this.button121);
-            this.panel1.Controls.Add(this.button120);
-            this.panel1.Controls.Add(this.button119);
-            this.panel1.Controls.Add(this.button118);
-            this.panel1.Controls.Add(this.button117);
-            this.panel1.Controls.Add(this.button116);
-            this.panel1.Controls.Add(this.button115);
-            this.panel1.Controls.Add(this.button114);
-            this.panel1.Controls.Add(this.button113);
-            this.panel1.Controls.Add(this.button112);
-            this.panel1.Controls.Add(this.button111);
-            this.panel1.Controls.Add(this.button110);
-            this.panel1.Controls.Add(this.button109);
-            this.panel1.Controls.Add(this.button108);
-            this.panel1.Controls.Add(this.button107);
-            this.panel1.Controls.Add(this.button106);
-            this.panel1.Controls.Add(this.button105);
-            this.panel1.Controls.Add(this.button104);
-            this.panel1.Controls.Add(this.button103);
-            this.panel1.Controls.Add(this.button102);
-            this.panel1.Controls.Add(this.button101);
-            this.panel1.Controls.Add(this.button100);
-            this.panel1.Controls.Add(this.button99);
-            this.panel1.Controls.Add(this.button98);
-            this.panel1.Controls.Add(this.button97);
-            this.panel1.Controls.Add(this.button96);
-            this.panel1.Controls.Add(this.button95);
-            this.panel1.Controls.Add(this.button94);
-            this.panel1.Controls.Add(this.button93);
-            this.panel1.Controls.Add(this.button92);
-            this.panel1.Controls.Add(this.button91);
-            this.panel1.Controls.Add(this.button90);
-            this.panel1.Controls.Add(this.button89);
-            this.panel1.Controls.Add(this.button88);
-            this.panel1.Controls.Add(this.button87);
-            this.panel1.Controls.Add(this.button86);
-            this.panel1.Controls.Add(this.button85);
-            this.panel1.Controls.Add(this.button84);
-            this.panel1.Controls.Add(this.button83);
-            this.panel1.Controls.Add(this.button82);
-            this.panel1.Controls.Add(this.button81);
-            this.panel1.Controls.Add(this.button80);
-            this.panel1.Controls.Add(this.button79);
-            this.panel1.Controls.Add(this.button78);
-            this.panel1.Controls.Add(this.button77);
-            this.panel1.Controls.Add(this.button76);
-            this.panel1.Controls.Add(this.button75);
-            this.panel1.Controls.Add(this.button74);
-            this.panel1.Controls.Add(this.button73);
-            this.panel1.Controls.Add(this.button72);
-            this.panel1.Controls.Add(this.button71);
-            this.panel1.Controls.Add(this.button70);
-            this.panel1.Controls.Add(this.button69);
-            this.panel1.Controls.Add(this.button68);
-            this.panel1.Controls.Add(this.button67);
-            this.panel1.Controls.Add(this.button66);
-            this.panel1.Controls.Add(this.button65);
-            this.panel1.Controls.Add(this.button64);
-            this.panel1.Controls.Add(this.button63);
-            this.panel1.Controls.Add(this.button62);
-            this.panel1.Controls.Add(this.button61);
-            this.panel1.Controls.Add(this.button60);
-            this.panel1.Controls.Add(this.button59);
-            this.panel1.Controls.Add(this.button58);
-            this.panel1.Controls.Add(this.button57);
-            this.panel1.Controls.Add(this.button56);
-            this.panel1.Controls.Add(this.button55);
-            this.panel1.Controls.Add(this.button54);
-            this.panel1.Controls.Add(this.button53);
-            this.panel1.Controls.Add(this.button52);
-            this.panel1.Controls.Add(this.button51);
-            this.panel1.Controls.Add(this.button50);
-            this.panel1.Controls.Add(this.button49);
-            this.panel1.Controls.Add(this.button48);
-            this.panel1.Controls.Add(this.button47);
-            this.panel1.Controls.Add(this.button46);
-            this.panel1.Controls.Add(this.button45);
-            this.panel1.Controls.Add(this.button44);
-            this.panel1.Controls.Add(this.button43);
-            this.panel1.Controls.Add(this.button42);
-            this.panel1.Controls.Add(this.button41);
-            this.panel1.Controls.Add(this.button40);
-            this.panel1.Controls.Add(this.button39);
-            this.panel1.Controls.Add(this.button38);
-            this.panel1.Controls.Add(this.button37);
-            this.panel1.Controls.Add(this.button36);
-            this.panel1.Controls.Add(this.button35);
+            this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.button34);
             this.panel1.Controls.Add(this.button33);
             this.panel1.Controls.Add(this.button32);
@@ -351,6 +232,158 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1281, 834);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.Black;
+            this.panel2.Controls.Add(this.panel3);
+            this.panel2.Controls.Add(this.button35);
+            this.panel2.Controls.Add(this.button36);
+            this.panel2.Controls.Add(this.button37);
+            this.panel2.Controls.Add(this.button38);
+            this.panel2.Controls.Add(this.button39);
+            this.panel2.Controls.Add(this.button40);
+            this.panel2.Controls.Add(this.button41);
+            this.panel2.Controls.Add(this.button42);
+            this.panel2.Controls.Add(this.button43);
+            this.panel2.Controls.Add(this.button44);
+            this.panel2.Controls.Add(this.button45);
+            this.panel2.Controls.Add(this.button46);
+            this.panel2.Controls.Add(this.button47);
+            this.panel2.Controls.Add(this.button48);
+            this.panel2.Controls.Add(this.button49);
+            this.panel2.Controls.Add(this.button50);
+            this.panel2.Controls.Add(this.button51);
+            this.panel2.Controls.Add(this.button52);
+            this.panel2.Controls.Add(this.button53);
+            this.panel2.Controls.Add(this.button54);
+            this.panel2.Controls.Add(this.button55);
+            this.panel2.Controls.Add(this.button56);
+            this.panel2.Controls.Add(this.button57);
+            this.panel2.Controls.Add(this.button58);
+            this.panel2.Controls.Add(this.button59);
+            this.panel2.Controls.Add(this.button60);
+            this.panel2.Controls.Add(this.button61);
+            this.panel2.Controls.Add(this.button62);
+            this.panel2.Controls.Add(this.button63);
+            this.panel2.Controls.Add(this.button64);
+            this.panel2.Location = new System.Drawing.Point(8, 8);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(854, 542);
+            this.panel2.TabIndex = 35;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.Black;
+            this.panel3.Controls.Add(this.button153);
+            this.panel3.Controls.Add(this.button147);
+            this.panel3.Controls.Add(this.button158);
+            this.panel3.Controls.Add(this.button157);
+            this.panel3.Controls.Add(this.button156);
+            this.panel3.Controls.Add(this.button152);
+            this.panel3.Controls.Add(this.button151);
+            this.panel3.Controls.Add(this.button150);
+            this.panel3.Controls.Add(this.button149);
+            this.panel3.Controls.Add(this.button148);
+            this.panel3.Controls.Add(this.button146);
+            this.panel3.Controls.Add(this.button145);
+            this.panel3.Controls.Add(this.button144);
+            this.panel3.Controls.Add(this.button143);
+            this.panel3.Controls.Add(this.button142);
+            this.panel3.Controls.Add(this.button141);
+            this.panel3.Controls.Add(this.button140);
+            this.panel3.Controls.Add(this.button139);
+            this.panel3.Controls.Add(this.button138);
+            this.panel3.Controls.Add(this.button137);
+            this.panel3.Controls.Add(this.button136);
+            this.panel3.Controls.Add(this.button135);
+            this.panel3.Controls.Add(this.button134);
+            this.panel3.Controls.Add(this.button133);
+            this.panel3.Controls.Add(this.button132);
+            this.panel3.Controls.Add(this.button131);
+            this.panel3.Controls.Add(this.button130);
+            this.panel3.Controls.Add(this.button129);
+            this.panel3.Controls.Add(this.button128);
+            this.panel3.Controls.Add(this.button127);
+            this.panel3.Controls.Add(this.button126);
+            this.panel3.Controls.Add(this.button125);
+            this.panel3.Controls.Add(this.button124);
+            this.panel3.Controls.Add(this.button123);
+            this.panel3.Controls.Add(this.button122);
+            this.panel3.Controls.Add(this.button121);
+            this.panel3.Controls.Add(this.button120);
+            this.panel3.Controls.Add(this.button119);
+            this.panel3.Controls.Add(this.button117);
+            this.panel3.Controls.Add(this.button115);
+            this.panel3.Controls.Add(this.button114);
+            this.panel3.Controls.Add(this.button113);
+            this.panel3.Controls.Add(this.button112);
+            this.panel3.Controls.Add(this.button111);
+            this.panel3.Controls.Add(this.button110);
+            this.panel3.Controls.Add(this.button109);
+            this.panel3.Controls.Add(this.button108);
+            this.panel3.Controls.Add(this.button94);
+            this.panel3.Controls.Add(this.button92);
+            this.panel3.Controls.Add(this.button91);
+            this.panel3.Controls.Add(this.button90);
+            this.panel3.Controls.Add(this.button89);
+            this.panel3.Controls.Add(this.button88);
+            this.panel3.Controls.Add(this.button87);
+            this.panel3.Controls.Add(this.button86);
+            this.panel3.Controls.Add(this.button85);
+            this.panel3.Controls.Add(this.button84);
+            this.panel3.Controls.Add(this.button83);
+            this.panel3.Controls.Add(this.button82);
+            this.panel3.Controls.Add(this.button81);
+            this.panel3.Controls.Add(this.button80);
+            this.panel3.Controls.Add(this.button79);
+            this.panel3.Controls.Add(this.button78);
+            this.panel3.Controls.Add(this.button77);
+            this.panel3.Controls.Add(this.button76);
+            this.panel3.Controls.Add(this.button75);
+            this.panel3.Controls.Add(this.button74);
+            this.panel3.Controls.Add(this.button73);
+            this.panel3.Controls.Add(this.button72);
+            this.panel3.Controls.Add(this.button71);
+            this.panel3.Controls.Add(this.button70);
+            this.panel3.Controls.Add(this.button69);
+            this.panel3.Controls.Add(this.button68);
+            this.panel3.Controls.Add(this.button67);
+            this.panel3.Controls.Add(this.button66);
+            this.panel3.Controls.Add(this.button65);
+            this.panel3.Controls.Add(this.button118);
+            this.panel3.Controls.Add(this.button116);
+            this.panel3.Controls.Add(this.button107);
+            this.panel3.Controls.Add(this.button106);
+            this.panel3.Controls.Add(this.button105);
+            this.panel3.Controls.Add(this.button104);
+            this.panel3.Controls.Add(this.button103);
+            this.panel3.Controls.Add(this.button102);
+            this.panel3.Controls.Add(this.button101);
+            this.panel3.Controls.Add(this.button100);
+            this.panel3.Controls.Add(this.button99);
+            this.panel3.Controls.Add(this.button98);
+            this.panel3.Controls.Add(this.button97);
+            this.panel3.Controls.Add(this.button96);
+            this.panel3.Controls.Add(this.button95);
+            this.panel3.Controls.Add(this.button93);
+            this.panel3.Location = new System.Drawing.Point(8, 8);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(854, 542);
+            this.panel3.TabIndex = 35;
+            // 
+            // button118
+            // 
+            this.button118.BackColor = System.Drawing.Color.DarkRed;
+            this.button118.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button118.ForeColor = System.Drawing.Color.White;
+            this.button118.Location = new System.Drawing.Point(125, 340);
+            this.button118.Name = "button118";
+            this.button118.Size = new System.Drawing.Size(50, 25);
+            this.button118.TabIndex = 58;
+            this.button118.Text = "1";
+            this.button118.UseVisualStyleBackColor = false;
             // 
             // button116
             // 
@@ -1257,6 +1290,7 @@
             this.button6.TabIndex = 7;
             this.button6.Text = "2";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
@@ -1386,6 +1420,7 @@
             this.button68.TabIndex = 62;
             this.button68.Text = "2";
             this.button68.UseVisualStyleBackColor = false;
+            this.button68.Click += new System.EventHandler(this.button68_Click);
             // 
             // button69
             // 
@@ -2320,6 +2355,27 @@
             this.button153.TabIndex = 138;
             this.button153.Text = "1";
             this.button153.UseVisualStyleBackColor = false;
+            // 
+            // button153
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Silver;
+            this.ClientSize = new System.Drawing.Size(925, 549);
+            this.Controls.Add(this.buildButton);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Form1";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
+            this.Text = "Form1";
+            this.panel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.ResumeLayout(false);
 
         }
 

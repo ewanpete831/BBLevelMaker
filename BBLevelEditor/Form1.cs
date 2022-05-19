@@ -50,5 +50,30 @@ namespace BBLevelEditor
             writer.WriteEndElement();
             writer.Close();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button108_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button67_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button68_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
